@@ -1,14 +1,10 @@
-
 ---
-
 # 🚗 License Plate Detection Web App (Streamlit + OpenCV)
 
 This document explains how a complete license plate detection system works using **OpenCV** for image processing and **Streamlit** for creating an interactive web interface.
 
 This explanation follows a  **beginner-friendly style** , covering every step and every line so anyone can understand the entire code flow.
-
 ---
-
 ## **Introduction**
 
 License plate detection involves identifying the rectangular region containing a vehicle’s number plate and cropping it out for later OCR (Optical Character Recognition).
